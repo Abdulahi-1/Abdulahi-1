@@ -7,7 +7,7 @@
 
 💻 Aspiring Software Engineer | Front end Developement
 
-🚀 Passionate about building apps that blend **design + technology**
+🚀 I enjoy building apps that blend **design + technology**
 
 ### 🔭 I’m currently working on:
   - **BenefitsBridge** – iOS app that connects people to federal government support programs 
