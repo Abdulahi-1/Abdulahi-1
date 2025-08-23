@@ -47,7 +47,7 @@
 ---
 
 ### ⚡ Fun fact:  
-  I love going outdoors with my family and taking pictures of the beautiful sunsets and oceans across the city of Seattle. I know, I'm a ✨ photographer ✨ in the making.
+  I love going outdoors with my family and taking pictures of the beautiful sunsets and oceans across the city of Seattle. I know, I'm a ✨ photographer ✨ in the making. Check out my photo's down below!
 
 ### 🖼️ Photo Gallery:
 
