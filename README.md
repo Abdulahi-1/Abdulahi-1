@@ -52,17 +52,17 @@
 ### 🖼️ Photo Gallery:
 
 <p align="center">
-  <img src="IMG_2419.png" width="200"/>
-  <img src="IMG_2420.png" width="200"/>
-  <img src="IMG_2421.png" width="200"/>
-  <img src="IMG_2422.png" width="200"/>
+  <img src="IMG_2419.PNG" width="200"/>
+  <img src="IMG_2420.PNG" width="200"/>
+  <img src="IMG_2421.PNG" width="200"/>
+  <img src="IMG_2422.PNG" width="200"/>
 </p>
 
 <p align="center">
-  <img src="IMG_2466.png" width="200"/>
-  <img src="IMG_2467.png" width="200"/>
-  <img src="IMG_2481.png" width="200"/>
-  <img src="IMG_2482.png" width="200"/>
+  <img src="IMG_2466.PNG" width="200"/>
+  <img src="IMG_2467.PNG" width="200"/>
+  <img src="IMG_2481.PNG" width="200"/>
+  <img src="IMG_2482.PNG" width="200"/>
 </p>
 
 
