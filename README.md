@@ -4,7 +4,9 @@
 **Abdulahi-1/Abdulahi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 🎓 CS + INFO @ University of Washington
+
 💻 Aspiring Software Engineer | Front end Developement
+
 🚀 Passionate about building apps that blend **design + technology**
 
 ### 🔭 I’m currently working on:
@@ -40,7 +42,7 @@
 ### 📫 How to reach me:  
   - LinkedIn: https://www.linkedin.com/in/abdulahizabdi
   - Email: aza3@cs.washington.edu
-  - Portfolio: students.washington.edu/aza3
+  - Portfolio: https://students.washington.edu/aza3
 
 ---
 
