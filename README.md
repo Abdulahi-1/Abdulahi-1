@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Abdulahi Abdi
+## 👋, I'm Abdulahi Abdi
 
 <!--
 **Abdulahi-1/Abdulahi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
