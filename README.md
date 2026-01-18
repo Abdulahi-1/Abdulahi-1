@@ -5,7 +5,7 @@
 -->
 🎓 CS + INFO @ University of Washington
 
-💻 Aspiring Software Engineer | Full-stack Development
+💻 Aspiring Product Designer
 
 🚀 I enjoy building apps that blend **design + technology**
 
