@@ -5,44 +5,55 @@
 -->
 🎓 CS + INFO @ University of Washington
 
-💻 Aspiring Software Engineer
+💻 Aspiring Software Engineer interested in AI, full-stack development, and intelligent systems
 
-🚀 I enjoy building apps that blend **design + technology**
+🚀 Experienced through Microsoft, public-sector technology internships, and projects spanning AI-powered applications, developer tools, and user-focused software
 
-### 🔭 I’m currently working on:
-  - **BenefitsBridge** – iOS app that connects people to federal government support programs 
-  - **Tumblr Feed** – mobile app that fetches and displays Tumblr blog posts
-  - **Trivia App** – quiz app powered by the Open Trivia Database API
-  - **Portfolio Website** - website that showcases my past completed projects
-    
 ---
-  
-### 🌱 I’m currently learning:
-  - Software Design and Implementations (CSE 331)  
-  - Beginner iOS development (APIs, UIKit/SwiftUI, Prototyping)
-  - Interaction Programming (CSE 340)
-  - Foundational Data Science (INFO 201)
+
+### 🔭 Featured Projects:
+
+* **BenefitsBridge** – platform connecting users with government assistance programs
+* **PawPal++** – AI-powered pet care scheduler using LLM function calling and intelligent task planning
+* **MyMILL** – makerspace queue management platform with real-time reservations and AI assistance
+* **Portfolio Website** – showcasing projects, experience, and technical growth
+
+---
+
+### 🛠️ Technologies:
+
+* Python, Java, JavaScript, Swift, HTML/CSS
+* Flutter, Streamlit
+* Git/GitHub
+* APIs, LLMs, AI Agents
 
 ---
 
 ### 👯 I’m looking to collaborate on:
-  - Open-source Front-end Development
-  - Apps that create social good and accessibility impact
+
+* Open-source software
+* AI-powered applications
+* Full-stack development projects
+* Technology for social impact
 
 ---
 
-### 💬 Ask me about:  
-  - My experiences with iOS development (UIKit, Storyboard, APIs) 
-  - Python, Swift basics
-  - My process for building and designing clean & user-centered apps
-  - Photography and beautiful beaches!
+### 💬 Lets chat About:
+
+* Software engineering internships
+* AI and LLM-powered applications
+* Full-stack development
+* Technical interviews and career growth
+* Building products from idea to deployment
 
 ---
 
-### 📫 How to reach me:  
-  - LinkedIn: https://www.linkedin.com/in/abdulahizabdi
-  - Email: aza3@cs.washington.edu
-  - Portfolio: https://students.washington.edu/aza3
+### 📫 How to reach me:
+
+* LinkedIn: linkedin.com/in/abdulahizabdi
+* Email: [aza3@cs.washington.edu](mailto:aza3@cs.washington.edu)
+* Portfolio: students.washington.edu/aza3
+
 
 ---
 
