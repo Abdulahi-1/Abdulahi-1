@@ -16,7 +16,7 @@
 * **BenefitsBridge** – platform connecting users with government assistance programs
 * **PawPal++** – AI-powered pet care scheduler using LLM function calling and intelligent task planning
 * **MyMILL** – makerspace queue management platform with real-time reservations and AI assistance
-* **Portfolio Website** – showcasing projects, experience, and technical growth
+* **HuskyAIe** – AI-powered chatbot prototype that improves UW students' access to hardware
 
 ---
 
