@@ -23,7 +23,7 @@
 ### 🛠️ Technologies:
 
 * Python, Java, JavaScript, Swift, HTML/CSS
-* Flutter, Streamlit
+* Flutter, Streamlit, React
 * Git/GitHub
 * APIs, LLMs, AI Agents
 
